@@ -143,6 +143,7 @@ test_t0() {
       ssh/test_ssh_limit.py \
       syslog/test_syslog.py\
       tacacs/test_accounting.py \
+      tacacs/test_authentication.py \
       tacacs/test_authorization.py \
       tacacs/test_jit_user.py \
       tacacs/test_ro_disk.py \
@@ -297,6 +298,7 @@ test_multi_asic_t1_lag() {
     snmp/test_snmp_pfc_counters.py \
     snmp/test_snmp_queue.py \
     tacacs/test_accounting.py \
+    tacacs/test_authentication.py \
     tacacs/test_authorization.py \
     tacacs/test_jit_user.py \
     tacacs/test_ro_disk.py \
@@ -321,6 +323,7 @@ test_multi_asic_t1_lag_pr() {
     snmp/test_snmp_pfc_counters.py \
     snmp/test_snmp_queue.py \
     tacacs/test_accounting.py \
+    tacacs/test_authentication.py \
     tacacs/test_authorization.py \
     tacacs/test_jit_user.py \
     tacacs/test_ro_user.py \

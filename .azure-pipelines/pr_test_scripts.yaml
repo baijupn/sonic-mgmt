@@ -293,6 +293,7 @@ t0:
   - system_health/test_system_status.py
   - system_health/test_watchdog.py
   - tacacs/test_accounting.py
+  - tacacs/test_authentication.py
   - tacacs/test_authorization.py
   - tacacs/test_jit_user.py
   - tacacs/test_ro_disk.py
@@ -608,6 +609,7 @@ t1-lag:
   - system_health/test_system_status.py
   - system_health/test_watchdog.py
   - tacacs/test_accounting.py
+  - tacacs/test_authentication.py
   - tacacs/test_authorization.py
   - tacacs/test_jit_user.py
   - tacacs/test_ro_disk.py
@@ -859,6 +861,7 @@ multi-asic-t1-lag:
   - snmp/test_snmp_queue.py
   - snmp/test_snmp_queue_counters.py
   - tacacs/test_accounting.py
+  - tacacs/test_authentication.py
   - tacacs/test_authorization.py
   - tacacs/test_jit_user.py
   - tacacs/test_ro_user.py
